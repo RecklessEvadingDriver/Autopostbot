@@ -1,0 +1,5 @@
+[project]
+name = "autopostbot"
+version = "0.1.0"
+description = "Production-ready Telegram bot"
+requires-python = ">=3.12"
